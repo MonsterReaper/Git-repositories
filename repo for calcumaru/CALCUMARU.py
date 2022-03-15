@@ -1,5 +1,5 @@
-# dont copy shibe sama
-# © 2022 shivesh.s 
+
+# © 2022 MonsterReaper
 import math
 import time
 
